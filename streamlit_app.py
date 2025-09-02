@@ -58,7 +58,7 @@ def normalize_binary(binary_str):
     
     return mantissa_bits, exponent
 
-st.title("浮動小数点数の世界を探求しよう 🔬")
+st.title("浮動小数点数")
 st.caption("Created by Dit-Lab.(Daiki ITO)")
 st.caption("Supported by Tomoaki ATSUMI")
 
