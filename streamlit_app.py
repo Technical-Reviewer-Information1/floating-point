@@ -208,7 +208,6 @@ with col3:
 final_result = f"{sign_bit} {exponent_binary} {mantissa_10bit}"
 st.markdown("### 🔗 最終結果")
 st.code(final_result, language="text")
-st.balloons()
 
 st.markdown("---")
 
@@ -329,7 +328,6 @@ except ValueError:
 
 st.subheader("🎉 完成した10進数")
 st.success(f"**{decimal_result}**")
-st.balloons()
 
 st.markdown("---")
 st.markdown("### 📚 学習のポイント")
