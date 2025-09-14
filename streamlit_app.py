@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.set_page_config(page_title="浮動小数点数", layout="wide")
+
 def decimal_to_binary_integer(num):
     """整数部分を2進数に変換"""
     if num == 0:
@@ -58,7 +60,7 @@ def normalize_binary(binary_str):
     
     return mantissa_bits, exponent
 
-st.title("浮動小数点数の世界を探求しよう 🔬")
+st.title("浮動小数点数（pp.148-150）")
 st.caption("Created by Dit-Lab.(Daiki ITO)")
 st.caption("Supported by Tomoaki ATSUMI")
 
