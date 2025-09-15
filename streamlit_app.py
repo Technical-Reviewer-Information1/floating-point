@@ -74,7 +74,7 @@ st.write("10進数（小数）がコンピュータ内部でどのように表�
 st.warning("⚠️ **重要**: この浮動小数点数表現では、16ビット形式を使用し、**仮数部のみを格納します**（先頭の整数部分「1.」は省略されます）")
 
 # 入力
-input_number = st.number_input("🔢 好きな小数を入力してください", value=-14, step=1")
+input_number = st.number_input("🔢 好きな小数を入力してください", value=-14, step=1)
 
 st.info(f"📋 今回変換する数値: **{input_number}**")
 
