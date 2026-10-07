@@ -1,6 +1,6 @@
 # 浮動小数点数
 
-『大学入学共通テスト「情報Ⅰ」対策問題集』（技術評論社, ISBN 978-4-297-15084-6）pp.148-149 連動Webアプリ。
+『大学入学共通テスト「情報Ⅰ」対策問題集』（技術評論社, ISBN 978-4-297-15084-6）pp.148-150 連動Webアプリ。
 
 **公開URL**: https://technical-reviewer-information1.github.io/floating-point/
 
